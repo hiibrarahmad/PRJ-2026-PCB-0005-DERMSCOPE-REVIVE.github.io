@@ -25,8 +25,7 @@
 
 <br/>
 
-[🔬 Interactive PCB View](https://hiibrarahmad.github.io/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io/) · [📋 Project Assets](https://hiibrarahmad.github.io/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io/ASSETS/) · [🌐 Revive Medical Technology](https://rmt-usa.com/) · [📜 License](./LICENSE) · [📝 Changelog](./CHANGELOG.md) · [🤝 Contributing](./CONTRIBUTING.md)
-
+[🔬 Interactive PCB View](https://hiibrarahmad.github.io/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io/) · [📋 Project Assets](https://github.com/hiibrarahmad/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io/tree/main/ASSETS) · [🌐 Revive Medical Technology](https://rmt-usa.com/) · [📜 License](./LICENSE) · [📝 Changelog](./CHANGELOG.md)
 </div>
 
 ---
