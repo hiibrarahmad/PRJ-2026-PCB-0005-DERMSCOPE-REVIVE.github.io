@@ -1,0 +1,89 @@
+PROPRIETARY LICENSE
+
+Copyright (c) 2026 Revive Medical Technology (RMT)
+All Rights Reserved.
+
+Project:  PRJ-2026-PCB-0005-DERMSCOPE-REVIVE
+Product:  DermScope REVIVE — Handheld Dermatology Imaging Device
+Client:   Revive Medical Technology — https://rmt-usa.com/
+Designer: hiibrarahmad
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NOTICE: This repository and all of its contents — including but not limited to
+PCB schematics, layout files, Gerber outputs, BOM (Bill of Materials), firmware,
+software, documentation, images, and design data — are the exclusive proprietary
+property of Revive Medical Technology (RMT) and its authorized design partners.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+RESTRICTIONS
+
+1. NO REPRODUCTION
+   You may not copy, reproduce, duplicate, or replicate any part of this work,
+   in whole or in part, in any form or by any means, without the prior written
+   permission of Revive Medical Technology.
+
+2. NO DISTRIBUTION
+   You may not publish, distribute, sublicense, sell, or transfer any part of
+   this work to any third party without express written authorization from
+   Revive Medical Technology.
+
+3. NO MODIFICATION
+   You may not modify, adapt, translate, reverse engineer, decompile,
+   disassemble, or create derivative works based on this design or any part
+   of its contents.
+
+4. NO COMMERCIAL USE
+   This work may not be used, in whole or in part, for any commercial purpose
+   without explicit written consent from Revive Medical Technology.
+
+5. CONFIDENTIALITY
+   All technical data, PCB designs, schematics, and related materials contained
+   in this repository are confidential and proprietary. Unauthorized disclosure
+   to third parties is strictly prohibited.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PERMITTED USE
+
+This repository is shared publicly for reference, portfolio, and demonstration
+purposes only. Viewing of the contents is permitted. Any use beyond passive
+viewing requires written permission.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+INTELLECTUAL PROPERTY
+
+The DermScope REVIVE design, including its carrier PCB architecture, component
+selection, signal routing strategy, and system integration approach, constitutes
+trade secret and proprietary know-how of Revive Medical Technology and its
+design partners. All intellectual property rights are reserved.
+
+Third-party components referenced in this project (including but not limited to
+NXP i.MX6UL, INVENSOM-6UL SOM, TP4056, MCP3208-B) are the property of their
+respective owners and are governed by their own licenses and terms.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DISCLAIMER OF WARRANTIES
+
+THIS WORK IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, OR NON-INFRINGEMENT. IN NO EVENT SHALL REVIVE MEDICAL
+TECHNOLOGY BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM
+THE USE OR INABILITY TO USE THIS WORK.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CONTACT
+
+For licensing inquiries, permissions, or partnership opportunities:
+
+  Revive Medical Technology (RMT)
+  Website:  https://rmt-usa.com/
+  GitHub:   https://github.com/hiibrarahmad
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+© 2026 Revive Medical Technology. All Rights Reserved.
