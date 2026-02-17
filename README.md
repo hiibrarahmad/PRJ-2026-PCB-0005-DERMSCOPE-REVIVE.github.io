@@ -10,16 +10,22 @@
 
 **Designed for [Revive Medical Technology](https://rmt-usa.com/) · Powered by INVENSOM-6UL SOM**
 
-[![PCB Version](https://img.shields.io/badge/PCB%20Version-V2-00c8ff?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgN2wxMCA1IDEwLTV6TTIgMTdsOCA0IDgtNE0yIDEybDggNCA4LTQiLz48L3N2Zz4=)](#)
+[![PCB Version](https://img.shields.io/badge/PCB%20Version-V2-00c8ff?style=for-the-badge)](#)
 [![Layer Count](https://img.shields.io/badge/PCB%20Layers-4%20Layer-ff6b35?style=for-the-badge)](#)
 [![Board Size](https://img.shields.io/badge/Board%20Size-90%20×%2062%20mm-22c55e?style=for-the-badge)](#)
 [![RoHS](https://img.shields.io/badge/RoHS-Compliant-4ade80?style=for-the-badge)](#)
 [![Impedance](https://img.shields.io/badge/Impedance-Controlled-a855f7?style=for-the-badge)](#)
 [![Surface Finish](https://img.shields.io/badge/Finish-Immersion%20Gold%20(ENIG)-f59e0b?style=for-the-badge)](#)
 
+[![License](https://img.shields.io/badge/License-Proprietary%20%C2%A9%20RMT-dc2626?style=for-the-badge)](./LICENSE)
+[![Changelog](https://img.shields.io/badge/Changelog-V2%20Released-16a34a?style=for-the-badge)](./CHANGELOG.md)
+[![Last Commit](https://img.shields.io/github/last-commit/hiibrarahmad/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io?style=for-the-badge&color=0891b2&label=Last%20Commit)](../../commits/main)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-22c55e?style=for-the-badge&logo=github)](https://hiibrarahmad.github.io/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io/)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=hiibrarahmad.PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io&style=for-the-badge&color=0e7490)](https://github.com/hiibrarahmad/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io)
+
 <br/>
 
-[🔬 Interactive PCB View](https://hiibrarahmad.github.io/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io/) · [📋 Project Assets](https://github.com/hiibrarahmad/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io/tree/main/ASSETS) · [🌐 Revive Medical Technology](https://rmt-usa.com/)
+[🔬 Interactive PCB View](https://hiibrarahmad.github.io/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io/) · [📋 Project Assets](https://hiibrarahmad.github.io/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io/ASSETS/) · [🌐 Revive Medical Technology](https://rmt-usa.com/) · [📜 License](./LICENSE) · [📝 Changelog](./CHANGELOG.md) · [🤝 Contributing](./CONTRIBUTING.md)
 
 </div>
 
@@ -208,7 +214,7 @@ This carrier board is designed exclusively for the **INVENSOM-6UL** System on Mo
 <tr><td>Inner Layer Line/Space</td><td>4 mil / 4 mil</td></tr>
 <tr><td>Via Plating Thickness</td><td>Min. 20 µm</td></tr>
 <tr><td>Solder Mask</td><td>Top & Bottom · Color: Green</td></tr>
-<tr><td>Overlay</td><td>Top & Bottom · Color: White</td></tr>
+<tr><td>Silkscreen</td><td>Top & Bottom · Color: White</td></tr>
 <tr><td>Impedance Control</td><td>✅ Yes</td></tr>
 <tr><td>RoHS</td><td>✅ Compliant</td></tr>
 <tr><td>Via Tenting</td><td>✅ Yes</td></tr>
@@ -293,15 +299,29 @@ This board was designed for **[Revive Medical Technology (RMT)](https://rmt-usa.
 
 ---
 
-## 📁 Repository Assets
+## 📁 Repository Structure
 
 ```
 PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io/
-└── ASSETS/
-    ├── PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.png         ← Top view (PNG)
-    ├── PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.jpg         ← Top view (JPG)
-    ├── PRJ-2026-PCB-0005-DERMSCOPE-REVIVE bot.png     ← Bottom view (PNG)
-    └── PRJ-2026-PCB-0005-DERMSCOPE-REVIVE bot.jpg     ← Bottom view (JPG)
+│
+├── ASSETS/
+│   ├── PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.png       ← Top view (PNG)
+│   ├── PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.jpg       ← Top view (JPG)
+│   ├── PRJ-2026-PCB-0005-DERMSCOPE-REVIVE bot.png   ← Bottom view (PNG)
+│   └── PRJ-2026-PCB-0005-DERMSCOPE-REVIVE bot.jpg   ← Bottom view (JPG)
+│
+├── .github/
+│   └── ISSUE_TEMPLATE/
+│       ├── bug_report.md                             ← Bug report template
+│       ├── feature_request.md                        ← Feature request template
+│       ├── question.md                               ← Question template
+│       └── config.yml                                ← Issue chooser config
+│
+├── index.html                                        ← Interactive PCB viewer
+├── README.md                                         ← This file
+├── LICENSE                                           ← Proprietary © RMT
+├── CHANGELOG.md                                      ← Version history
+└── CONTRIBUTING.md                                   ← Contribution guidelines
 ```
 
 ---
@@ -313,7 +333,9 @@ PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io/
 | 🌐 Interactive PCB View | [hiibrarahmad.github.io/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io](https://hiibrarahmad.github.io/PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io/) |
 | 🏢 Revive Medical Technology | [rmt-usa.com](https://rmt-usa.com/) |
 | 📦 INVENSOM-6UL SOM | [Inventron](https://www.inventron.net/) |
-| 📋 INVENSOM-6UL Datasheet | Available on request |
+| 📜 License | [LICENSE](./LICENSE) |
+| 📝 Changelog | [CHANGELOG.md](./CHANGELOG.md) |
+| 🤝 Contributing | [CONTRIBUTING.md](./CONTRIBUTING.md) |
 
 ---
 
@@ -325,6 +347,8 @@ PRJ-2026-PCB-0005-DERMSCOPE-REVIVE.github.io/
 
 [![Revive Medical Technology](https://img.shields.io/badge/Client-Revive%20Medical%20Technology-0ea5e9?style=for-the-badge)](https://rmt-usa.com/)
 [![Platform](https://img.shields.io/badge/Platform-INVENSOM--6UL-ef4444?style=for-the-badge)](#)
-[![Standard](https://img.shields.io/badge/Standard-IPC%20Class%202-22c55e?style=for-the-badge)](#)
+[![License](https://img.shields.io/badge/License-Proprietary%20%C2%A9%20RMT-dc2626?style=for-the-badge)](./LICENSE)
+
+© 2026 Revive Medical Technology. All Rights Reserved.
 
 </div>
